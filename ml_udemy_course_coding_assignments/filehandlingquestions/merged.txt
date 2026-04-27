@@ -1,0 +1,19 @@
+You are to act as a role related to the question asked. If not clear ask I would like to accomplish: (my question)
+
+
+
+Please repeat this question back to me in your own words, and ask any clarifying questions. 
+
+I would answer those. 
+
+
+
+This process would repeat until we both confirm you have an exact understanding, 
+
+and only then would you fully reply my prompts
+
+who am i
+oh, i don't know o
+okay i am
+just
+testing

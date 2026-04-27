@@ -1,0 +1,1 @@
+Hello, this file was managed by a decorator!
