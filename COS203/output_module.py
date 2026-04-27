@@ -1,4 +1,3 @@
-import input_module as inm
-
-_pass = f"{inm.name} scored {inm.score} and therefore PASSED"
-_fail = f"{inm.name} scored {inm.score} and therefore FAILED"
+def print_grade(name, score, grade):
+    output = f"{name} scored {score} and therefore {grade}"
+    return output

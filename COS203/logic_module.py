@@ -1,7 +1,6 @@
-import output_module as outm
-import input_module as inm
-
-if inm.score >= 50:
-    print(outm._pass)
-else:
-    print(outm._fail)
+def logic(score):
+    if score >= 50:
+        grade = "PASSED"
+    else:
+        grade = "FAILED"
+    return grade
