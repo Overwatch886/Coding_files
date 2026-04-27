@@ -1,0 +1,14 @@
+Link,Status,Status Code
+https://youtube.com/,Valid,503
+https://www.youtube.com/about/,Valid,200
+https://www.youtube.com/about/press/,Valid,200
+https://www.youtube.com/about/copyright/,Valid,200
+https://youtube.com/t/contact_us/,Valid,200
+https://www.youtube.com/creators/,Valid,200
+https://www.youtube.com/ads/,Valid,200
+https://developers.google.com/youtube,Valid,500
+https://youtube.com/t/terms,Valid,200
+https://youtube.com/t/privacy,Valid,500
+https://www.youtube.com/about/policies/,Valid,200
+https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen,Valid,200
+Israel,16,Computer Science
